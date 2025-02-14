@@ -47,7 +47,7 @@
    
            - Frequency간 차이 유효성 검정(Mann-Whitney U statistic)
    
-           - (i) Frequency별로 주요 변수 선정 - 랜덤포레스트
+           - (i) Frequency별로 주요 변수 선정 - 랜덤포레스트 (sklearn package)
            - (ii) 변수 유의성 + 모델 생성 - 회귀분석
                - 랜덤 포레스트에서 선정된 변수 + 교호작용 반영한 회귀모델 생성
                - 전체 변수 + 교호작용 변수 반영한 회귀모델 생성
@@ -132,7 +132,7 @@
    
            - Significance Test for Frequency Differences (Mann-Whitney U test)
    
-           - (i) Key variable selection based on Random Forest
+           - (i) Key variable selection based on Random Forest (sklearn package)
            - (ii) Regression model development incorporating significant variables & interactions:
                 - Model 1: Random Forest-selected variables + interaction terms
                 - Model 2: All variables + interaction terms
