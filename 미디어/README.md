@@ -68,7 +68,8 @@
 
 10. 추가로 하면 좋을 분석 방법
     
-        - 광고비와 같은 추가적인 외부 데이터가 있었다면 광고비는 최소화하면서 광고효과를 극대화할 수 있는 방안에 대해 분석해볼 수 있었을 것 같음.  
+        - 광고비와 같은 추가적인 외부 데이터가 있었다면 광고비는 최소화하면서 광고효과를 극대화할 수 있는 방안에 대해 분석해볼 수 있었을 것 같음.
+        - NLP기술들을 활용하여 프로그램명에 대한 분석 진행 (의성어 사용, 연예인 출연 여부, 특정 식당명)
 
 <br>
 
@@ -154,6 +155,7 @@
 10. Future Analysis Opportunities
     
         - Incorporating external data, such as advertising costs, could help optimize ad effectiveness while minimizing expenses.
+	- Conduct an analysis of program names using NLP techniques (e.g., presence of onomatopoeia, celebrity appearances, specific restaurant names)
 
 <br>
 
