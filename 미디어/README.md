@@ -85,7 +85,7 @@
 >   * [월별 맛집 음식 지상파 광고 집행 DB 정보](https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=c633755c-6631-4cfd-ab20-b16ff294dc2c) : Contains monthly records of gourmet food commercials aired on terrestrial TV channels
 >   * Data period: January to December 2023
 > * [EDA 발표자료] (https://github.com/wlalsl/13th-EDA/blob/main/%EB%AF%B8%EB%94%94%EC%96%B4/25_1_DSL_EDA_%EB%AF%B8%EB%94%94%EC%96%B4.pdf) : Slides used for the EDA presentation
-> * [EDA 최종 코드](https://github.com/wlalsl/13th-EDA/blob/main/%EB%AF%B8%EB%94%94%EC%96%B4/code/%E1%84%82%E1%85%A1%E1%84%86%E1%85%AE%2B%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%A5%E1%86%BC%2B%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1.ipynb) : Code used in the EDA analysis
+> * [EDA 최종 코드] (https://github.com/wlalsl/13th-EDA/blob/main/%EB%AF%B8%EB%94%94%EC%96%B4/code/%E1%84%82%E1%85%A1%E1%84%86%E1%85%AE%2B%E1%84%80%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%A5%E1%86%BC%2B%E1%84%92%E1%85%AC%E1%84%80%E1%85%B1.ipynb) : Code used in the EDA analysis
 
 <br>
 
